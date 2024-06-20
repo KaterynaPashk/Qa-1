@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2024-05-19T12:47:21.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Z7ZaaHZ08Oqi5oEKqs_Z" version="24.4.4" type="device">
+  <diagram name="Сторінка-1" id="P52bR3s_de2szQxzpX1l">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BuE7bma9GPyB8xLVPI2F-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14" y="10" width="800" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="BuE7bma9GPyB8xLVPI2F-6" value="Материнька плата" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BuE7bma9GPyB8xLVPI2F-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BuE7bma9GPyB8xLVPI2F-7" target="BuE7bma9GPyB8xLVPI2F-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BuE7bma9GPyB8xLVPI2F-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BuE7bma9GPyB8xLVPI2F-7" target="BuE7bma9GPyB8xLVPI2F-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BuE7bma9GPyB8xLVPI2F-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BuE7bma9GPyB8xLVPI2F-7" target="BuE7bma9GPyB8xLVPI2F-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BuE7bma9GPyB8xLVPI2F-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BuE7bma9GPyB8xLVPI2F-7" target="BuE7bma9GPyB8xLVPI2F-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BuE7bma9GPyB8xLVPI2F-7" value="Блок живлення" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=3;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="30" y="320" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="BuE7bma9GPyB8xLVPI2F-8" value="Процесор(Мозок ПК)(CPU)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=3;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BuE7bma9GPyB8xLVPI2F-11" value="Оперативна пам&#39;ять(RAM)&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="345" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BuE7bma9GPyB8xLVPI2F-13" value="Відеокарта(графічний процесор) (GPU)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=3;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="240" width="487.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BuE7bma9GPyB8xLVPI2F-15" value="Жорсткий диск(Вінчестер)&lt;div&gt;(HDD)(SSD)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=3;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="320" y="365" width="477.5" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
